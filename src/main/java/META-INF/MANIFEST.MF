@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/isabelbolger/Documents/Code/Hangman/src/main/java/M
+ an.java
+Main-Class: Man
+

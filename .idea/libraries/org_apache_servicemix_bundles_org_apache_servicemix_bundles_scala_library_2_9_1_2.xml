@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.apache.servicemix.bundles:org.apache.servicemix.bundles.scala-library:2.9.1_2" type="repository">
+    <properties maven-id="org.apache.servicemix.bundles:org.apache.servicemix.bundles.scala-library:2.9.1_2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/servicemix/bundles/org.apache.servicemix.bundles.scala-library/2.9.1_2/org.apache.servicemix.bundles.scala-library-2.9.1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/servicemix/bundles/org.apache.servicemix.bundles.scala-library/2.9.1_2/org.apache.servicemix.bundles.scala-library-2.9.1_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
